@@ -1,6 +1,4 @@
-# Hello-word
-
-Hi, Humans!
-
-Here.I like Node.
-I ve had On the moon and find them far superior to Earth tacos.
+function Start()
+{
+ echo "Hello-word";-◄-ID:9324d899-1432-47ca-948b-5dbaa4c13da9
+}
