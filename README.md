@@ -30,4 +30,4 @@ filename = ‘%s/%s.json’ % (chaindata_dir, index_string)
 with open(filename, ‘w’) as block_file:
 json.dump(self.__dict__(), block_file)
 
-block_data[‘nonce’3 | {112}]Function: transfer(address _to, uint256 	_value)= 0 #starting it at 0
+block_data[‘nonce’]Function: transfer(address _to, uint256 	_value)= 0 #starting it at 0
